@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "沙漠坦克", "Assembly-CSharp-firstpass.csproj", "{F7B6228D-6F73-7964-CEE2-E44F49954CBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "沙漠坦克", "Assembly-CSharp.csproj", "{59BDA64D-A033-4E57-236E-A5922EAB1BCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "沙漠坦克", "Assembly-CSharp-Editor.csproj", "{00D6777F-B362-F84F-9846-E31637F7A269}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7B6228D-6F73-7964-CEE2-E44F49954CBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B6228D-6F73-7964-CEE2-E44F49954CBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B6228D-6F73-7964-CEE2-E44F49954CBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B6228D-6F73-7964-CEE2-E44F49954CBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59BDA64D-A033-4E57-236E-A5922EAB1BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59BDA64D-A033-4E57-236E-A5922EAB1BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59BDA64D-A033-4E57-236E-A5922EAB1BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59BDA64D-A033-4E57-236E-A5922EAB1BCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00D6777F-B362-F84F-9846-E31637F7A269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00D6777F-B362-F84F-9846-E31637F7A269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00D6777F-B362-F84F-9846-E31637F7A269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00D6777F-B362-F84F-9846-E31637F7A269}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
