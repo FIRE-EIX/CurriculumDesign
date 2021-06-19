@@ -6,8 +6,8 @@ public class Shell : MonoBehaviour {
 
     public GameObject shellExplosionPrefab;
 
-    // Use this for initialization
-    void Start () {
+	// Use this for initialization
+	void Start () {
 		
 	}
 	
@@ -15,6 +15,7 @@ public class Shell : MonoBehaviour {
 	void Update () {
 		
 	}
+
     public void OnTriggerEnter(Collider collider)
     {
         GameObject.Instantiate(shellExplosionPrefab, transform.position, transform.rotation);

@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: fb284b9d3f2396040b69f33e2d71a3ee
+  productGUID: 7f2c9f06bc358044d9868e070630f4ee
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -663,9 +663,9 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: bafb221f-c755-47ef-8d87-9e96f114586f
-  projectName: "\u6C99\u6F20\u5766\u514B"
-  organizationId: eix001
+  cloudProjectId: 
+  projectName: Template_3D
+  organizationId: 
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0

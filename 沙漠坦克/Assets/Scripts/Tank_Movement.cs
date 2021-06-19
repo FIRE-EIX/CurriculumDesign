@@ -16,7 +16,7 @@ public class Tank_Movement : MonoBehaviour {
 	}
 	
 	// Update is called once per frame
-	void FixedUpdate () {
+	void Update () {
         float v = Input.GetAxis("VerticalP"+number);
         rigidbody.velocity = transform.forward * v * speed;
 
