@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-D:/college/Junior II/CurriculumDesign/1/沙漠坦克/沙漠坦克.exe
+F:/Unity2018/work/work.exe
 SceneListBegin?
 Assets/scenes/Main.unity
 SceneListEnd?
@@ -182,7 +182,8 @@ a51173280b81aed3c792da6e9cebc4cd Assembly-CSharp-firstpass.dll:UnityStandardAsse
 53dbd7baa3c8da2f87828dd70d70dae4 Assembly-CSharp-firstpass.dll:UnityStandardAssets.ImageEffects.DepthOfFieldDeprecated
 7fc3adfac7efbc0706567dbaca46f637 Assembly-CSharp-firstpass.dll:UnityStandardAssets.ImageEffects.Fisheye
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp-firstpass.dll:UnityStandardAssets.ImageEffects.PostEffectsBase
-dcbf32c57e91687da15ff38f17a543db Assembly-CSharp.dll:.Tank_health
+a54ddb4d7845177b4d981deee07fa7a5 Assembly-CSharp.dll:.Tank_health
 e2a8fd4524fc2a3a236b7e7720b544a6 Assembly-CSharp-firstpass.dll:UnityStandardAssets.ImageEffects.EdgeDetection
 b3432dfe180f02232d7612fb366593d3 Assembly-CSharp-firstpass.dll:UnityStandardAssets.ImageEffects.ColorCorrectionLookup
 cc03d32d84fe7de61c1ff011ce358a0c Assembly-CSharp-firstpass.dll:UnityStandardAssets.ImageEffects.Tonemapping
+e4ecb606ae6ce2f65b11bce62339c5e8 Assembly-CSharp.dll:.FollowTarget
